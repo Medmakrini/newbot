@@ -5,11 +5,9 @@ import time
 from instagrapi import Client
 from instagrapi import types
 
-# IG_USERNAME = "nextgengenie"
-# IG_PASSWORD = "botjdid99"
-
 IG_USERNAME = "nextgengenie"
-IG_PASSWORD = "botjdid19"
+IG_PASSWORD = "botjdid99"
+
 
 cl = Client()
 CURRENT_COMMENTS = []

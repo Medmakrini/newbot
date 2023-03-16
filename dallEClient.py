@@ -3,7 +3,7 @@ import requests
 import openai
 from PIL import Image
 
-openai.api_key = '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'  # your api key
+openai.api_key = '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'  # your api key
 
 
 def generate(promptText):
