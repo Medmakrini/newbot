@@ -31,6 +31,6 @@ if __name__ == '__main__':
             caption = random.choice(captionsList) + captionPrefix
             ic.newPost(image_path, caption)
             ic.cl.logout()
-            sleeping(4*3600)
+            sleeping(4* 3600)
         except:
             traceback.print_exc()
